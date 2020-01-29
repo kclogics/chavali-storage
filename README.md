@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-contributor : 1) chavali 2) bofice
+contributor : 1) chavali(origin) 2) bofice(upstreeam)
 
 ## Available Scripts
 
